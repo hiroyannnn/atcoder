@@ -1,0 +1,6 @@
+a = input()
+# .split()
+#n = int(a[0])
+#d = int(a[1])
+# print(n)
+print(a)
