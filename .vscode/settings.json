@@ -1,6 +1,3 @@
 {
-  "files.insertFinalNewline": false,
-  "runner.languageMap": {
-    "python": "./python.sh"
-  }
+  "files.insertFinalNewline": false
 }
